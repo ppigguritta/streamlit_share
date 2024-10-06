@@ -4,4 +4,3 @@ matplotlib
 plotly
 datetime
 pandas
-fonts-nanum
